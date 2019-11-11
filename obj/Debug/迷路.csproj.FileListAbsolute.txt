@@ -1,0 +1,19 @@
+c:\users\h2820\documents\visual studio 2017\Projects\迷路\迷路\obj\Debug\迷路.Form1.resources
+c:\users\h2820\documents\visual studio 2017\Projects\迷路\迷路\obj\Debug\迷路.Properties.Resources.resources
+c:\users\h2820\documents\visual studio 2017\Projects\迷路\迷路\obj\Debug\迷路.csproj.GenerateResource.Cache
+c:\users\h2820\documents\visual studio 2017\Projects\迷路\迷路\bin\Debug\迷路.exe.config
+c:\users\h2820\documents\visual studio 2017\Projects\迷路\迷路\bin\Debug\迷路.exe
+c:\users\h2820\documents\visual studio 2017\Projects\迷路\迷路\bin\Debug\迷路.pdb
+c:\users\h2820\documents\visual studio 2017\Projects\迷路\迷路\obj\Debug\迷路.exe
+c:\users\h2820\documents\visual studio 2017\Projects\迷路\迷路\obj\Debug\迷路.pdb
+C:\Users\h2820\documents\visual studio 2017\Projects\迷路\迷路\obj\Debug\迷路.csprojResolveAssemblyReference.cache
+C:\Users\IN8i-15X7200\Downloads\迷路\迷路\迷路\bin\Debug\迷路.exe.config
+C:\Users\IN8i-15X7200\Downloads\迷路\迷路\迷路\bin\Debug\迷路.exe
+C:\Users\IN8i-15X7200\Downloads\迷路\迷路\迷路\bin\Debug\迷路.pdb
+C:\Users\IN8i-15X7200\Downloads\迷路\迷路\迷路\obj\Debug\迷路.csprojAssemblyReference.cache
+C:\Users\IN8i-15X7200\Downloads\迷路\迷路\迷路\obj\Debug\迷路.Form1.resources
+C:\Users\IN8i-15X7200\Downloads\迷路\迷路\迷路\obj\Debug\迷路.Properties.Resources.resources
+C:\Users\IN8i-15X7200\Downloads\迷路\迷路\迷路\obj\Debug\迷路.csproj.GenerateResource.cache
+C:\Users\IN8i-15X7200\Downloads\迷路\迷路\迷路\obj\Debug\迷路.csproj.CoreCompileInputs.cache
+C:\Users\IN8i-15X7200\Downloads\迷路\迷路\迷路\obj\Debug\迷路.exe
+C:\Users\IN8i-15X7200\Downloads\迷路\迷路\迷路\obj\Debug\迷路.pdb
